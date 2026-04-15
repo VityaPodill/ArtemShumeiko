@@ -1,2 +1,7 @@
+ Простым Языком на Понятном Примере
+Артём Шумейко
+
 GIT is initiated just now
+
+1st from LOCAL
 1st from GIT-HUB
