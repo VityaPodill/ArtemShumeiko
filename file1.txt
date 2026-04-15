@@ -4,6 +4,6 @@
 GIT is initiated just now
 
 1st from LOCAL
-1st from GIT-HUB
+1st from GitHub
 1st from OLD_LAPTOP!
 2nd from LOCAL------+++++++
