@@ -5,5 +5,8 @@ public class LOCAL_REBASE {
 
         String secondCommit = "aaaaaa";
         System.out.println(secondCommit);
+
+        String thirdCommit = "bbbb";
+        System.out.println(thirdCommit);
     }
 }
