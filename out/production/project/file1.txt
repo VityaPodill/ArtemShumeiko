@@ -1,0 +1,18 @@
+ Простым Языком на Понятном Примере
+Артём Шумейко
+
+GIT is initiated just now
+
+1st from LOCAL
+1st from GitHub
+1st from OLD_LAPTOP!
+2nd from LOCAL------+++++++
+2nd from OLD_LAPTOP !!!!!!!
+3  from LOCAL------+++++
+-------
+4 from LOCAL
++++++
+4 from OLD_LAPTOP!
+ADDING some text from newBranch111111111111111111111
+5 from LOCAL======
+ACER ADD this line======
