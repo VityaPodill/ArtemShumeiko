@@ -13,5 +13,6 @@ GIT is initiated just now
 4 from LOCAL
 +++++
 4 from OLD_LAPTOP!
+ADDING some text from newBranch111111111111111111111
 5 from LOCAL======
 ACER ADD this line======
