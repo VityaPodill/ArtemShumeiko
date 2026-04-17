@@ -8,5 +8,8 @@ public class LOCAL_REBASE {
 
         String thirdCommit = "bbbb";
         System.out.println(thirdCommit);
+
+        String firstBranch = "FIRST BRANCH TO CHECK GIT STASH + POP";
+        System.out.println(firstBranch);
     }
 }
