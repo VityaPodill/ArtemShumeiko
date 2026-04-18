@@ -5,5 +5,6 @@ public class ACER_REBASE_Class {
 
         int rebase=111;
         System.out.println(rebase-11);
+        int d=-1;
     }
 }
