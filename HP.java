@@ -4,5 +4,8 @@ public class HP {
         int _2 = 222;
         String _3 = "www";
         System.out.println(Squash_and_merge + _2 + _3);
+
+        String MERGE_only = "";
+        System.out.println(MERGE_only);
     }
 }
