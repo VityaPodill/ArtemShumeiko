@@ -9,5 +9,9 @@ public class HP {
         String second = "222";
         String third = "333";
         System.out.println(MERGE_only + second + third);
+
+        int a = 111;
+        int b = 222;
+        System.out.println(a + b);
     }
 }
