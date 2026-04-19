@@ -6,6 +6,7 @@ public class HP {
         System.out.println(Squash_and_merge + _2 + _3);
 
         String MERGE_only = "";
-        System.out.println(MERGE_only);
+        String second = "222";
+        System.out.println(MERGE_only + second);
     }
 }
