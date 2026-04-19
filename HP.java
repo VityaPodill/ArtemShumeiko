@@ -12,6 +12,8 @@ public class HP {
 
         int a = 111;
         int b = 222;
-        System.out.println(a + b);
+
+        int Rebase_and_merge = 1;
+        System.out.println(a + b + Rebase_and_merge);
     }
 }
