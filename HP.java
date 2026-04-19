@@ -11,6 +11,7 @@ public class HP {
         System.out.println(MERGE_only + second + third);
 
         int a = 111;
-        System.out.println(a);
+        int b = 222;
+        System.out.println(a + b);
     }
 }
