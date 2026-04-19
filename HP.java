@@ -7,6 +7,7 @@ public class HP {
 
         String MERGE_only = "";
         String second = "222";
-        System.out.println(MERGE_only + second);
+        String third = "333";
+        System.out.println(MERGE_only + second + third);
     }
 }
