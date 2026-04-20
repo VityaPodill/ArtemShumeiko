@@ -18,5 +18,10 @@ public class ACER_1 {
 
         String From_HP = "HP";
         System.out.println(From_HP);
+
+        int c = 333;
+        int d = 4;
+        int e = 5;
+        System.out.println(a + b + c + d + e);
     }
 }
