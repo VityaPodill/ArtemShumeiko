@@ -13,6 +13,7 @@ public class ACER_1 {
         System.out.println(ACER_MERGE_1);
 
         int a = 1;
-        System.out.println(a);
+        int b = 2;
+        System.out.println(a + b);
     }
 }
