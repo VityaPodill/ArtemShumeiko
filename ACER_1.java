@@ -17,6 +17,7 @@ public class ACER_1 {
 
         int c = 333;
         int d = 4;
-        System.out.println(a + b + c + d);
+        int e = 5;
+        System.out.println(a + b + c + d + e);
     }
 }
