@@ -8,5 +8,8 @@ public class ACER_1 {
 
         String NEW_REVERT_TEST = "1 commit";
         System.out.println(NEW_REVERT_TEST);
+
+        String ACER_MERGE_1 = "1 commit";
+        System.out.println(ACER_MERGE_1);
     }
 }
