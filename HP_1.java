@@ -7,5 +7,8 @@ public class HP_1 {
 
         int HP_4 = 4444;
         System.out.println(HP_11 + HP_2 + HP_3 + HP_4);
+
+        String HP_MERGE_1 = "";
+        System.out.println(HP_MERGE_1);
     }
 }
