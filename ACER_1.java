@@ -11,5 +11,8 @@ public class ACER_1 {
 
         String ACER_MERGE_1 = "1 commit";
         System.out.println(ACER_MERGE_1);
+
+        int a = 1;
+        System.out.println(a);
     }
 }
