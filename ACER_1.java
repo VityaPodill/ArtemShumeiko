@@ -23,7 +23,7 @@ public class ACER_1 {
         int d = 4;
         int e = 5;
         System.out.println(a + b + c + d + e);
-        // CHANGES FROM GitHub ---------------------
+        //  GitHub ---------------------
         // new changes from ACER for GIT PULL --REBASE
         // CHANGES FROM HP to test GIT PULL -- REBASE
     }
