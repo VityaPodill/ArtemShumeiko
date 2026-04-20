@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class ACER_1 {
     public static void main(String[] args) {
         int ACER_11 = 1;
@@ -24,7 +26,20 @@ public class ACER_1 {
         int e = 5;
         System.out.println(a + b + c + d + e);
         //  GitHub ---------------------
-        //  ACER ==========================
+        System.out.println(" ACER ==========================");
         //  HP +++++++++++++++++++
+
+        int[] arr = {13, 11, 7, 6, 5, 4, 2};
+        int t;
+        for (int i = 0; i < arr.length - 1; i++) {
+            for (int k = i + 1; k < arr.length; k++) {
+                if (arr[i] > arr[k]) {
+                    t = arr[i];
+                    arr[i] = arr[k];
+                    arr[k] = t;
+                }
+            }
+        }
+        System.out.println(Arrays.toString(arr));
     }
 }
