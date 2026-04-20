@@ -25,6 +25,6 @@ public class ACER_1 {
         System.out.println(a + b + c + d + e);
         //  GitHub ---------------------
         //  ACER ==========================
-        // CHANGES FROM HP to test GIT PULL -- REBASE
+        //  HP +++++++++++++++++++
     }
 }
