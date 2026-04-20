@@ -4,6 +4,8 @@ public class HP_1 {
         int HP_2 = 222;
 
         int HP_3 = 333;
-        System.out.println(HP_11 + HP_2 + HP_3);
+
+        int HP_4 = 4444;
+        System.out.println(HP_11 + HP_2 + HP_3 + HP_4);
     }
 }
