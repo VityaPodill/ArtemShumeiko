@@ -5,5 +5,8 @@ public class ACER_1 {
 
         int ACER_3 = 333;
         System.out.println(ACER_11 + ACER_2 + ACER_3);
+
+        String NEW_REVERT_TEST = "1 commit";
+        System.out.println(NEW_REVERT_TEST);
     }
 }
