@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ACER_1 {
+public class ACER_1 implements FirstInterFace {
     public static void main(String[] args) {
         int ACER_11 = 1;
         int ACER_2 = 222;
@@ -41,5 +41,10 @@ public class ACER_1 {
             }
         }
         System.out.println(Arrays.toString(arr));
+    }
+
+    @Override
+    public void first(int a) {
+        System.out.println(a - 3);
     }
 }
