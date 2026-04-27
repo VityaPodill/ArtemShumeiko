@@ -19,6 +19,7 @@ public class HP {
         int R_and_M__ACER = 222;
 
         int HP_Rebase = 1234;
-        System.out.println(a + b + R_and_M__ACER + HP_Rebase);
+        int HP_Rebase_2222 = 56;
+        System.out.println(a + b + R_and_M__ACER + HP_Rebase + HP_Rebase_2222);
     }
 }
