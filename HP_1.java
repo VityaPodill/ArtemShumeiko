@@ -9,7 +9,9 @@ public class HP_1 {
         System.out.println(HP_11 + HP_2 + HP_3 + HP_4);
 
         String HP_MERGE_1 = "";
-        System.out.println(HP_MERGE_1);
+
+        String RebaseTest = "111";
+        System.out.println(HP_MERGE_1 + RebaseTest);
         // 1 commit from HP to test InterFace
     }
 }
