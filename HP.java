@@ -17,6 +17,8 @@ public class HP {
         System.out.println(a + b + Rebase_and_merge);
 
         int R_and_M__ACER = 222;
-        System.out.println(a + b + R_and_M__ACER);
+
+        int HP_Rebase = 1234;
+        System.out.println(a + b + R_and_M__ACER + HP_Rebase);
     }
 }
