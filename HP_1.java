@@ -16,5 +16,8 @@ public class HP_1 {
 
         // 1st commit from HP to test GTI PULL --REBASE
         // 2nd commit from HP to test GTI PULL --REBASE
+
+        // HP check Push-Rejection 11
+        // HP check Push-Rejection 22
     }
 }
