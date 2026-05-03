@@ -51,5 +51,6 @@ public class ACER_1 implements FirstInterFace {
     // Hello FORM ACER REBASE_333
     // Hello FORM ACER REBASE_4444
 
-    //  ACER check Rejection of Push
+    //  ACER check Rejection of Push 111
+    //  ACER check Rejection of Push 222
 }
