@@ -24,5 +24,6 @@ public class HP {
         int HP_MERGE_1 = 78;
         System.out.println(a + b + R_and_M__ACER + HP_Rebase + HP_Rebase_2222 + HP_MERGE_1);
         //HP to test git merge --abort
+        //Changes from GitHub to test git merge --abort
     }
 }
